@@ -1,0 +1,1 @@
+Frisky Whisky Coin

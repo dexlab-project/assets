@@ -1,1 +1,1 @@
-Frisky Whisky Coin
+Frisky Whisky Cash

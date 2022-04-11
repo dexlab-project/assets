@@ -1,4 +1,7 @@
 {
+    "is_show": true,
     "status": "DEGRADE",
-    "is_link": false
+    "is_link": false,
+    "message": "The Solana network is experiencing congestion or reduced performance. Transactions may fail to send or confirm.",
+    "shorten_message" : "The Solana network is experiencing congestion or reduced performance."
 }
